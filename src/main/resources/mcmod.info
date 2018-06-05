@@ -1,0 +1,16 @@
+[
+{
+  "modid": "interestingcommands",
+  "name": "Interesting Commands",
+  "description": "Some interesting commands for interested users.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Hikaze Hakurei"],
+  "credits": "All guys who had played Minecraft with me for a long time.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
